@@ -3,3 +3,4 @@ day 1 : discovering branch
 so technically this thing is just a branch from your main repository,
 but it will not affect anything in main repo when we make something in the branch,
 but we can take something we made in the branch into the main repo
+*and yep this is me editing this file after pull it to the main branch, to test and confirm it
